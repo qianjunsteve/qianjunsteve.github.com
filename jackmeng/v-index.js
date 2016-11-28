@@ -1,1 +1,0 @@
-define("views/index/index.js",function(e){e("components/nav/nav.js"),e("components/brief/brief.js");new Vue({el:"#J_body",data:{}})});

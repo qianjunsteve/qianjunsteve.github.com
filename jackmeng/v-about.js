@@ -1,1 +1,0 @@
-define("views/about/about.js",function(){});
